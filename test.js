@@ -1,0 +1,1 @@
+document.getElementById("root").innerHTML = '<h1>Normal JS</h1>'
